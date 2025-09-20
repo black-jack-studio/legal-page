@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Legal Notice</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #111;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: #666;
+      padding: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Legal Notice</h1>
+  </header>
+
+  <main>
+    <h2>Application Publisher</h2>
+    <p>
+      Name / Company: <strong>[Your Name or Company]</strong><br>
+      Address: <strong>[Your postal address]</strong><br>
+      Contact email: <strong>[Your email]</strong><br>
+      Company registration number: <strong>[Your registration number if applicable]</strong>
+    </p>
+
+    <h2>Hosting</h2>
+    <p>
+      Host: <strong>[Hosting provider, e.g., GitHub Pages, OVH, AWS]</strong><br>
+      Address: <strong>[Host’s address]</strong><br>
+      Website: <a href="[Hosting URL]">[Hosting URL]</a>
+    </p>
+
+    <h2>Intellectual Property</h2>
+    <p>
+      All content of the application (texts, images, graphics, logo, source code) is protected by applicable intellectual property laws.  
+      Any reproduction or representation, in whole or in part, is strictly prohibited without prior authorization.
+    </p>
+
+    <h2>Liability</h2>
+    <p>
+      The publisher of the application cannot be held responsible for errors, temporary or permanent unavailability, or any direct or indirect damage resulting from the use of the application.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      For any inquiries or complaints, please contact us at:  
+      <strong>[Your email]</strong>
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2025 [Your Name or Company] – All rights reserved.
+  </footer>
+</body>
+</html>
